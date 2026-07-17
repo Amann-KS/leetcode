@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Amann-KS/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Amann-KS/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Amann-KS/leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
