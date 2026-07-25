@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
 | [1534-count-good-triplets](https://github.com/Amann-KS/leetcode/tree/master/1534-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/Amann-KS/leetcode/tree/master/1929-concatenation-of-array) |
+| [3467-transform-array-by-parity](https://github.com/Amann-KS/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3895-count-digit-appearances](https://github.com/Amann-KS/leetcode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Amann-KS/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
+| [3467-transform-array-by-parity](https://github.com/Amann-KS/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amann-KS/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amann-KS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3467-transform-array-by-parity](https://github.com/Amann-KS/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
