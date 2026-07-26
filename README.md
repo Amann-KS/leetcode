@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amann-KS/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Amann-KS/leetcode/tree/master/0015-3sum) |
 | [0152-maximum-product-subarray](https://github.com/Amann-KS/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Amann-KS/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Amann-KS/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Amann-KS/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
 | [3467-transform-array-by-parity](https://github.com/Amann-KS/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Amann-KS/leetcode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
 ## Enumeration
 |  |
