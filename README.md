@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amann-KS/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amann-KS/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Amann-KS/leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Amann-KS/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amann-KS/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Amann-KS/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Amann-KS/leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amann-KS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Amann-KS/leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Amann-KS/leetcode/tree/master/0709-to-lower-case) |
