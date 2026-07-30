@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Amann-KS/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Amann-KS/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/Amann-KS/leetcode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Amann-KS/leetcode/tree/master/3024-type-of-triangle) |
 | [3895-count-digit-appearances](https://github.com/Amann-KS/leetcode/tree/master/3895-count-digit-appearances) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Amann-KS/leetcode/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Amann-KS/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
