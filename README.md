@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Amann-KS/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amann-KS/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amann-KS/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Amann-KS/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Amann-KS/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Amann-KS/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Amann-KS/leetcode/tree/master/3024-type-of-triangle) |
