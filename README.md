@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Amann-KS/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Amann-KS/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Amann-KS/leetcode/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Amann-KS/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3467-transform-array-by-parity](https://github.com/Amann-KS/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3895-count-digit-appearances](https://github.com/Amann-KS/leetcode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Amann-KS/leetcode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Amann-KS/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Amann-KS/leetcode/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Amann-KS/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3895-count-digit-appearances](https://github.com/Amann-KS/leetcode/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
