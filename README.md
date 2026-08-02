@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amann-KS/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amann-KS/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1534-count-good-triplets](https://github.com/Amann-KS/leetcode/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/Amann-KS/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Amann-KS/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/Amann-KS/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amann-KS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amann-KS/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Amann-KS/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Amann-KS/leetcode/tree/master/2974-minimum-number-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
