@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amann-KS/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [1534-count-good-triplets](https://github.com/Amann-KS/leetcode/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/Amann-KS/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amann-KS/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amann-KS/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Amann-KS/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Amann-KS/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Amann-KS/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
@@ -155,14 +158,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -185,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Amann-KS/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amann-KS/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
