@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amann-KS/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amann-KS/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Amann-KS/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amann-KS/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Amann-KS/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
@@ -174,12 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
@@ -216,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
