@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amann-KS/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Amann-KS/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Amann-KS/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Amann-KS/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Amann-KS/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Amann-KS/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Amann-KS/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amann-KS/leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Amann-KS/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Amann-KS/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amann-KS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
