@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amann-KS/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Amann-KS/leetcode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amann-KS/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Amann-KS/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Amann-KS/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3467-transform-array-by-parity](https://github.com/Amann-KS/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Amann-KS/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Amann-KS/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Amann-KS/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Amann-KS/leetcode/tree/master/3024-type-of-triangle) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Amann-KS/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Amann-KS/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amann-KS/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amann-KS/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amann-KS/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Amann-KS/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Amann-KS/leetcode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Amann-KS/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/Amann-KS/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Amann-KS/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amann-KS/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amann-KS/leetcode/tree/master/0258-add-digits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Amann-KS/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amann-KS/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -301,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amann-KS/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Amann-KS/leetcode/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Amann-KS/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
