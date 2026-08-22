@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Amann-KS/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amann-KS/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Amann-KS/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Amann-KS/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Amann-KS/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Amann-KS/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Amann-KS/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amann-KS/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Amann-KS/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amann-KS/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Amann-KS/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Amann-KS/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Amann-KS/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amann-KS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Amann-KS/leetcode/tree/master/0079-word-search) |
 | [3310-remove-methods-from-project](https://github.com/Amann-KS/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amann-KS/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Amann-KS/leetcode/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amann-KS/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Amann-KS/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Amann-KS/leetcode/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
