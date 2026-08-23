@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Amann-KS/leetcode/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amann-KS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/Amann-KS/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Amann-KS/leetcode/tree/master/2029-stone-game-ix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amann-KS/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Amann-KS/leetcode/tree/master/2652-sum-multiples) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Amann-KS/leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Amann-KS/leetcode/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/Amann-KS/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/Amann-KS/leetcode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Amann-KS/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amann-KS/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Amann-KS/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Amann-KS/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Amann-KS/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Amann-KS/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Amann-KS/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Amann-KS/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Amann-KS/leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Amann-KS/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amann-KS/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
