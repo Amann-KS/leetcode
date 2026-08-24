@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Amann-KS/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1563-stone-game-v](https://github.com/Amann-KS/leetcode/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amann-KS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/Amann-KS/leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Amann-KS/leetcode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Amann-KS/leetcode/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Amann-KS/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Amann-KS/leetcode/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amann-KS/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/Amann-KS/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Amann-KS/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Amann-KS/leetcode/tree/master/2029-stone-game-ix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amann-KS/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Amann-KS/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Amann-KS/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Amann-KS/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Amann-KS/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Amann-KS/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Amann-KS/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Amann-KS/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Amann-KS/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Amann-KS/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Amann-KS/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Amann-KS/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Amann-KS/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Amann-KS/leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
@@ -279,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Amann-KS/leetcode/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
