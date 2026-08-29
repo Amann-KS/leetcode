@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amann-KS/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amann-KS/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
+| [0330-patching-array](https://github.com/Amann-KS/leetcode/tree/master/0330-patching-array) |
 | [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Amann-KS/leetcode/tree/master/0896-monotonic-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Amann-KS/leetcode/tree/master/0330-patching-array) |
 | [1386-cinema-seat-allocation](https://github.com/Amann-KS/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Amann-KS/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Amann-KS/leetcode/tree/master/2029-stone-game-ix) |
