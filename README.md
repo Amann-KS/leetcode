@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/Amann-KS/leetcode/tree/master/0330-patching-array) |
 | [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Amann-KS/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Amann-KS/leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amann-KS/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Amann-KS/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Amann-KS/leetcode/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/Amann-KS/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Amann-KS/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
 |  |
