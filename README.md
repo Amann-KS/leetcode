@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amann-KS/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amann-KS/leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Amann-KS/leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Amann-KS/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Amann-KS/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Amann-KS/leetcode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amann-KS/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -444,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Amann-KS/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Amann-KS/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
